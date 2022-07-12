@@ -38,6 +38,7 @@ while '_' in result_list:
     print(result)
     print()
 
+
 if '_' not in result_list:
     print('Congratulations! You win.')
 
